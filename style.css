@@ -1,0 +1,20 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 12px;
+	color: rgb(147, 229, 180);
+    font-family: 'Alef';
+}
+canvas
+{
+	background: rgb(242, 190, 168);
+	border-radius: 20px;
+    border-style: dashed;
+}
+
+h3 {
+    font-family: 'Aboreto';
+}
